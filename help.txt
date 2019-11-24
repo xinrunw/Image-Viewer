@@ -1,4 +1,4 @@
-Instruction to run from command line:
+﻿Instruction to run from command line:
 
     Open terminal, cd to group_0458/phase2/src and copy the following line to terminal and press enter to run
 
@@ -8,7 +8,7 @@ Instruction to run from command line:
 	
 	java Main.Main
 
-To run UnitTest from command line, JUnit5 need to be imported. Test classes are src/UnitTest/DatabaseTest.java and src/UnitTest/TagTest.java
+# To run UnitTest from command line, JUnit5 need to be imported. Test classes are src/UnitTest/DatabaseTest.java and src/UnitTest/TagTest.java
   Note: To run UnitTest in Intellij, Working directory need to be set to phase2/src/
 
 Instruction for using the program:

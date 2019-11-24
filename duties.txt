@@ -1,0 +1,94 @@
+Duty list for project phase 1
+
+Zhifan Wang 1003013918 wangz256:
+- Learn JavaFX framework.
+
+- Implement all classes in view package. Including Library.java, ImageScene.java,
+  MoveFileScene.java, RenameScene.java and DeleteTagScene.java
+
+- Implement all classes in Main package. Including Main.java, AlertBox.java, ConfirmBox.java.
+
+- Implement Controller.renameSceneController.
+
+- Implement model.ImagePhoto.
+
+- Implement moveFile method in moveFileSceneController.
+
+- Implement tagToPhoto method in directorySceneController.
+
+- Working around connection between front-end and Controller.
+
+- Debug all classes in Main package, view package and connection with Controller package.
+
+- reformatted and finished docstring for the front-end codes.
+
+--- Phase2 ---
+
+- Implemented TagManagerScene and AddTagScene in view package.
+
+- Implemented TagManagerSceneController and AddTagSceneController in Controller package.
+
+- Help implemented new requirements in phase2.
+
+- Debugged all new edited classes in front-end.
+
+
+Silun Chen 1003163774:
+- Build up Database.java which is responsible for serialize and deserialize all the datas of this program.
+
+- Help implementing Photo.java and Tag.java.
+
+- Test the program.
+
+- Write the help.txt.
+
+--- Phase2 ---
+
+- Builded Unit-test for Database.java and Tag.java.
+
+- Help implemented new requirements in phase2 (read the tags that users rename using the OS).
+
+- Debugged all methods in Database.java, Photo.java and Tag.java.
+
+
+Xinrun Wang 1003066068 wangx492:
+
+- Implemented class Tag and all the methods in it.
+
+- Implemented class Photo and all the methods in it.
+
+- Implemented most of the methods in Database, connecting it with Tag and Photo.
+
+- Builded connection between back-end and MVC, connecting back-end with controller.
+
+- Did all the debugging for back-end.
+
+- Settled down phase1, finished docstrings, fixed warnings.
+
+- Edited help.txt.
+
+- Created UML diagram.
+
+--- Phase2 ---
+
+- Implemented Logging class and apply logging system in all controllers.
+
+- Help implemented new requirements in phase2.
+
+- Debugged for new methods.
+
+- Edited help.txt.
+
+
+Taige (Tiger) Yu 1003546736 yutai:
+
+- Build the controller package around the design of the program.
+
+-  Allow controller to meet the front-end's requirements to perform its functions.
+
+- Implemented classes in package controller: StartingSceneController.java, DirectorySceneController.java,
+ImageSceneController.java, DeleteTagSceneController.java, MoveFileSceneController.java.
+
+- Implemented methods within those classes for the front-end's functions.
+
+- Connect back-end java classes Photo, Tag, and Directory with the controller package
