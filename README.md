@@ -1,3 +1,5 @@
+University of Toronto, CSC207 Team Project - Image-Viewer
+Team members: Xinrun Wang, Zhifan Wang, Silun Chen, Tiger
 Instruction to run from command line:
 
     Open terminal, cd to group_0458/phase2/src and copy the following line to terminal and press enter to run
